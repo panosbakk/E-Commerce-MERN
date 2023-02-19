@@ -1,1 +1,1 @@
-# Booking-MERN
+# E-Commerce MERN
