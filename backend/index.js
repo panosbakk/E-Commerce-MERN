@@ -20,5 +20,5 @@ mongoose.connect(process.env.MONGO_URI, {
   });
 
   app.listen(8765, () => {
-    console.log("Server is listening on port 9103.");
+    console.log("Server is listening on port 8765.");
   });
